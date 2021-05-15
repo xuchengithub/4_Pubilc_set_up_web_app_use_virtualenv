@@ -23,6 +23,13 @@ touch debug/web/project/function_used_in_init.py
 
 touch debug/web/entrypoint_will_use_manage.sh
 touch debug/web/manage.py
+echo 
+"
+test1
+test2
+" 
+>> debug/web/manage.py
+
 touch debug/web/gunicorn.py
 echo "bind = '0.0.0.0:50000'" >> debug/web/gunicorn.py
 # touch debug/web/requirements.txt
