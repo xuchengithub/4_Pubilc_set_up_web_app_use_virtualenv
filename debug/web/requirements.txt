@@ -1,2 +1,0 @@
-#pip3 freeze > requirement.txt 
-#get from the env

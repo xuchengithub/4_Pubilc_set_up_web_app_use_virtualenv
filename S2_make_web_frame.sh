@@ -24,7 +24,8 @@ touch debug/web/project/function_used_in_init.py
 touch debug/web/entrypoint_will_use_manage.sh
 touch debug/web/manage.py
 touch debug/web/gunicorn.py
-touch debug/web/requirements.txt
+echo "bind = '0.0.0.0:50000'" >> debug/web/gunicorn.py
+# touch debug/web/requirements.txt
 
 git add .
 git commit -m "make_we_frame"
