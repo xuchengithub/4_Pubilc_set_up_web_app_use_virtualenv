@@ -23,7 +23,7 @@ touch debug/web/project/function_used_in_init.py
 
 touch debug/web/entrypoint_will_use_manage.sh
 touch debug/web/manage.py
-echo 
+echo\n
 "
 test1
 test2
