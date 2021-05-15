@@ -8,6 +8,8 @@ mkdir debug/web/project/static/Image
 touch debug/web/project/static/Image/.gitkeep
 mkdir debug/web/project/static/Js
 touch debug/web/project/static/Js/.gitkeep
+mkdir debug/web/project/static/Css
+touch debug/web/project/static/Css/.gitkeep
 mkdir debug/web/project/static/Models
 touch debug/web/project/static/Models/.gitkeep
 mkdir debug/web/project/static/Sound
