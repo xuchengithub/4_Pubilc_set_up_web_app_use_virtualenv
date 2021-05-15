@@ -7,13 +7,13 @@ mkdir debug/web/project/static
 mkdir debug/web/project/static/Image
 touch debug/web/project/static/Image/.gitkeep
 mkdir debug/web/project/static/Js
-torch debug/web/project/static/Js/.gitkeep
+touch debug/web/project/static/Js/.gitkeep
 mkdir debug/web/project/static/Models
-torch debug/web/project/static/Models/.gitkeep
+touch debug/web/project/static/Models/.gitkeep
 mkdir debug/web/project/static/Sound
-torch debug/web/project/static/Sound/.gitkeep
+touch debug/web/project/static/Sound/.gitkeep
 mkdir debug/web/project/static/icon
-torch debug/web/project/static/icon/.gitkeep
+touch debug/web/project/static/icon/.gitkeep
 
 touch debug/web/project/__init__.py
 touch debug/web/project/config_database.py
