@@ -1,6 +1,4 @@
 
-mkdir debug/Pubilic_XUCHEN_web_app_frame/
-cd debug/Pubilic_XUCHEN_web_app_frame/
 git clone https://github.com/xuchengithub/Pubilic_XUCHEN_web_app_frame.git
 
 cd Pubilic_XUCHEN_web_app_frame
