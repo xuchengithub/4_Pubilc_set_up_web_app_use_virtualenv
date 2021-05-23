@@ -1,5 +1,5 @@
 
-git clone https://github.com/xuchengithub/Pubilic_XUCHEN_web_app_frame.git
+git clone https://github.com/xuchengithub/Pubilic_XUCHEN_web_app_frame1.git
 
 cd Pubilic_XUCHEN_web_app_frame
 rm -rf .git
