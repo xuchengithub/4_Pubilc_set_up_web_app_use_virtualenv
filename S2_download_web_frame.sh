@@ -6,5 +6,5 @@ rm -rf .git
 git add .
 git commit -m "make_we_frame"
 git checkout -b worker_banch
-
+git push
 cd ..
